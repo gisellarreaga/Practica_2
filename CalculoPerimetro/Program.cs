@@ -11,7 +11,7 @@ namespace CalculoPerimetro
         static void Main(string[] args)
         {
 
-            // 1.- Declarar tres variables de tipo INT
+            // 1.- Declarar las variables
             int a = 10;
             int b = 10;
             int c = 7;
