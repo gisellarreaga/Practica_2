@@ -11,13 +11,13 @@ namespace Ejercicio_StringInt
         static void Main(string[] args)
         {
             String nombre;
-            String edad;
+            int edad;
 
             //Pedir por consola el nombre de una persona y la edad
             Console.WriteLine("Por favor, escribe tu nombre");
             nombre = Console.ReadLine();
             Console.WriteLine("Escribe tu edad");
-            edad = Console.ReadLine();
+            edad = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Te llamas " + nombre + " y tienes " + edad + " años.");
             Console.WriteLine("Presiona cualquier tecla para continuar");
@@ -25,3 +25,4 @@ namespace Ejercicio_StringInt
         }
     }
 }
+
