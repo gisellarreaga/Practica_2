@@ -22,6 +22,20 @@ namespace Ejercicio_StringInt
             Console.WriteLine("Te llamas " + nombre + " y tienes " + edad + " años.");
             Console.WriteLine("Presiona cualquier tecla para continuar");
             Console.ReadKey();
+
+            //Version de la profesora
+            //String Nombre;
+            //String LineaEdad;
+            //int edad;
+            //Console.WriteLine("Escribe tu nombre: ");
+            //Nombre = Console.ReadLine();
+            //Console.WriteLine("Escribe la edad: ");
+            //LineaEdad = Console.ReadLine();
+            //edad = Convert.ToInt32(LineaEdad);
+            //Console.WriteLine("Tu nombre es: " + Nombre + " y tienes " + | ed¡	^+"años");
+            //Console.WriteLine("Presiona cualquier tecla para continuar");
+            //Console.ReadKey(); 
+
         }
     }
 }
