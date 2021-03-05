@@ -27,6 +27,7 @@ namespace Ejercicio_StringInt
             //String Nombre;
             //String LineaEdad;
             //int edad;
+
             //Console.WriteLine("Escribe tu nombre: ");
             //Nombre = Console.ReadLine();
             //Console.WriteLine("Escribe la edad: ");
