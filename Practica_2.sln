@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operaciones", "Operaciones\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burguer", "Burguer\Burguer.csproj", "{97F5AEA9-DC43-448A-A9DA-867DEF753C85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfChar", "IfChar\IfChar.csproj", "{FE0CE9CB-E679-4DB6-BDFD-6F3567ABCFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormaPago", "FormaPago\FormaPago.csproj", "{9D04A76A-3F6B-425F-BC27-A1155316B281}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{97F5AEA9-DC43-448A-A9DA-867DEF753C85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97F5AEA9-DC43-448A-A9DA-867DEF753C85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97F5AEA9-DC43-448A-A9DA-867DEF753C85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0CE9CB-E679-4DB6-BDFD-6F3567ABCFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0CE9CB-E679-4DB6-BDFD-6F3567ABCFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0CE9CB-E679-4DB6-BDFD-6F3567ABCFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0CE9CB-E679-4DB6-BDFD-6F3567ABCFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D04A76A-3F6B-425F-BC27-A1155316B281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D04A76A-3F6B-425F-BC27-A1155316B281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D04A76A-3F6B-425F-BC27-A1155316B281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D04A76A-3F6B-425F-BC27-A1155316B281}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
